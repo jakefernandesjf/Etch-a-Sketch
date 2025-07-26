@@ -42,9 +42,12 @@ body {
     flex-direction: column;
     justify-content: center;
     margin: 10px;
+    border: solid;
+
 }
 
 .square {
+    opacity: 0;
     padding: 0px;
     margin: 0px;
     background-color: blue;
